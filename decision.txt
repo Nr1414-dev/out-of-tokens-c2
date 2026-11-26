@@ -1,0 +1,1 @@
+NO-GO — Audit Gate v2 belum dijalankan; kit check belum dijalankan. Entry C2 (mock v1 25,00%, di bawah bar 75%, entry lotre) dibangun per keputusan Hadi 26 Nov 2026 16:10 WIB ("langsung submit aja yg terbaik, gk usah nanya"). Submitter membalik ke GO hanya setelah kit check 0 failed + gate READY.
